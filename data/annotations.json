@@ -1,0 +1,54 @@
+[
+  { "day": "2014-01-18", "title": "Boston, beginning",       "body": "A four-month stay opens. The deepest single-place signal in the entire archive." },
+  { "day": "2014-03-12", "title": "Santo Domingo",           "body": "A two-day trip, seventeen plays, a quiet pinprick in the Caribbean." },
+  { "day": "2014-05-25", "title": "Boston, ending",          "body": "The Boston chapter closes with the spring." },
+  { "day": "2014-06-01", "title": "NYU Shanghai, summer",    "body": "The first plays from campus. The map widens by half a world." },
+  { "day": "2014-06-28", "title": "Macau",                   "body": "A weekend across the strait. Thirty-seven plays." },
+  { "day": "2014-08-25", "title": "New York, beginning",     "body": "NYU New York begins. NYC takes over the rest of the year." },
+  { "day": "2014-12-20", "title": "Shanghai, winter break",  "body": "Back to campus. The eastern circle deepens again." },
+
+  { "day": "2015-01-17", "title": "Hong Kong",              "body": "A four-day trip, a cluster of plays over Victoria Harbour." },
+  { "day": "2015-07-13", "title": "Taipei",                  "body": "A four-day stop, 161 plays in the metro centroid." },
+  { "day": "2015-07-18", "title": "Hong Kong, again",        "body": "A second trip in the same month — different network, same city." },
+
+  { "day": "2016-01-26", "title": "Florence, semester",      "body": "NYU Florence opens. The map's center of gravity shifts to Tuscany for four months." },
+  { "day": "2016-03-20", "title": "Reykjavik",               "body": "A few days under the Northern lights. The map briefly reaches the Arctic." },
+  { "day": "2016-03-26", "title": "Lisbon → Paris → Copenhagen", "body": "Three cities in a week. The most travel-dense month of the corpus." },
+  { "day": "2016-04-21", "title": "Berlin, the Netherlands", "body": "Three days, four cities — Berlin, Hazerswoude-Dorp, Amsterdam." },
+  { "day": "2016-05-10", "title": "Back to New York",        "body": "The Florence semester wraps. NYC stationary through year-end." },
+
+  { "day": "2017-01-08", "title": "Tokyo, detour",           "body": "Two plays from Tokyo on the way back from China. Easy to miss." },
+  { "day": "2017-03-14", "title": "Morocco",                 "body": "Marrakesh and Rabat. Five days of saturated North African ink." },
+  { "day": "2017-04-16", "title": "Coachella",               "body": "Two days in Indio. The desert gets a faint dot." },
+  { "day": "2017-12-24", "title": "Shanghai, year-end",      "body": "A six-day winter trip closes the year." },
+
+  { "day": "2018-02-15", "title": "Tulum",                   "body": "A long Mexican stay — 253 plays, the year's longest single trip." },
+  { "day": "2018-04-01", "title": "Paris",                   "body": "166 plays, all on Parisian metro coordinates." },
+  { "day": "2018-08-01", "title": "Mauritius & Madagascar",  "body": "Port Louis and Antananarivo — the southernmost points the map will ever reach." },
+  { "day": "2018-12-15", "title": "Bridgetown",              "body": "Barbados, year-end. A small bright dot in the Caribbean." },
+
+  { "day": "2019-04-20", "title": "Coachella, again",        "body": "200 plays from Indio. The desert dot deepens." },
+  { "day": "2019-05-25", "title": "Italy, multi-region",     "body": "Five days, logged as Venice — Florence, Venice, the lakes, all consolidated here." },
+  { "day": "2019-07-20", "title": "Apartment, moved",        "body": "A new home in New York, one that will last for years." },
+  { "day": "2019-08-30", "title": "Marfa, Texas",            "body": "A road trip out to the desert. Three days, 164 plays." },
+  { "day": "2019-10-12", "title": "Paris",                   "body": "Eight days, mid-October. The European circles wake up again." },
+  { "day": "2019-12-25", "title": "Seoul, Christmas",        "body": "Three days in Korea between Shanghai and home." },
+
+  { "day": "2020-01-15", "title": "Sanya",                   "body": "A short Hainan stay before the world closed." },
+  { "day": "2020-05-07", "title": "Stuck in Shanghai",       "body": "Shanghai inks in heavily through year-end — the longest stay since Boston." },
+
+  { "day": "2021-06-16", "title": "Back to New York",        "body": "After 17 months away. Home." },
+  { "day": "2021-07-06", "title": "Joshua Tree, LA",         "body": "A weekend in the desert. The west coast returns." },
+  { "day": "2021-10-16", "title": "London",                  "body": "Three days. The first European trip since 2019." },
+  { "day": "2021-11-14", "title": "Cologne, Germany",        "body": "A week in the Rhineland." },
+  { "day": "2021-11-29", "title": "Florida, road trip",      "body": "Miami → Fernandina Beach → Sarasota → Tarpon Springs. A coastal arc." },
+  { "day": "2021-12-23", "title": "Hong Kong, en route",     "body": "Two days in HK before slipping back to Shanghai for year-end." },
+
+  { "day": "2022-01-07", "title": "Shanghai, last time",     "body": "An eleven-week stay opens the year. The final long visit." },
+  { "day": "2022-02-09", "title": "Macau, briefly",          "body": "Three days. The eastern map closes with one more small bright dot." },
+  { "day": "2022-03-27", "title": "Back to New York, again", "body": "Shanghai goes quiet. The map's center returns to home." },
+  { "day": "2022-10-29", "title": "Atlanta",                 "body": "A six-day southern trip." },
+  { "day": "2022-11-05", "title": "Charlotte",               "body": "A week in North Carolina." },
+  { "day": "2022-11-23", "title": "Snowbird, Thanksgiving",  "body": "Five days of skiing in Utah." },
+  { "day": "2022-12-10", "title": "Miami, year-end",         "body": "Nine days in Florida. The map closes warm." }
+]

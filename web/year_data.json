@@ -1,0 +1,2356 @@
+{
+ "years": [
+  {
+   "year": 2014,
+   "plays": 18849,
+   "hours": 1223.1,
+   "active_days": 301,
+   "distinct_artists": 1618,
+   "distinct_tracks": 4680,
+   "headline": "2014 has three location chapters: a four-month stay in Boston (Jan – May), a summer and winter break at NYU Shanghai, and NYU New York from late August onwards. Short trips in between: the Dominican Republic, New Hampshire, Providence, Macau and Istanbul.",
+   "top_tracks": [
+    {
+     "name": "You & Me - Flume Remix",
+     "artist": "Disclosure",
+     "plays": 132,
+     "ms": 33652430
+    },
+    {
+     "name": "Lovin U",
+     "artist": "Stwo",
+     "plays": 94,
+     "ms": 23410687
+    },
+    {
+     "name": "Wildfire",
+     "artist": "SBTRKT",
+     "plays": 80,
+     "ms": 15046860
+    },
+    {
+     "name": "Drop the Game",
+     "artist": "Flume",
+     "plays": 79,
+     "ms": 17120157
+    },
+    {
+     "name": "Warm Water",
+     "artist": "BANKS",
+     "plays": 78,
+     "ms": 15770124
+    },
+    {
+     "name": "Open",
+     "artist": "Rhye",
+     "plays": 76,
+     "ms": 16163595
+    },
+    {
+     "name": "Holdin On",
+     "artist": "Flume",
+     "plays": 73,
+     "ms": 11288680
+    },
+    {
+     "name": "Never Never",
+     "artist": "SBTRKT",
+     "plays": 72,
+     "ms": 17010988
+    }
+   ],
+   "top_artists": [
+    {
+     "name": "Johann Sebastian Bach",
+     "plays": 780,
+     "ms": 198454154
+    },
+    {
+     "name": "Frédéric Chopin",
+     "plays": 523,
+     "ms": 150629248
+    },
+    {
+     "name": "Disclosure",
+     "plays": 491,
+     "ms": 119490785
+    },
+    {
+     "name": "Flume",
+     "plays": 433,
+     "ms": 86505901
+    },
+    {
+     "name": "Chet Faker",
+     "plays": 409,
+     "ms": 105312640
+    },
+    {
+     "name": "BANKS",
+     "plays": 386,
+     "ms": 87276780
+    },
+    {
+     "name": "Jhené Aiko",
+     "plays": 336,
+     "ms": 80351930
+    },
+    {
+     "name": "DāM-FunK",
+     "plays": 260,
+     "ms": 64467368
+    }
+   ],
+   "top_albums": [
+    {
+     "name": "Flume: Deluxe Edition",
+     "artist": "Flume",
+     "plays": 260,
+     "ms": 48471692
+    },
+    {
+     "name": "Toeachizown",
+     "artist": "DāM-FunK",
+     "plays": 235,
+     "ms": 59131854
+    },
+    {
+     "name": "Play & Play: B Sides",
+     "artist": "Moby",
+     "plays": 234,
+     "ms": 55783064
+    },
+    {
+     "name": "SBTRKT",
+     "artist": "SBTRKT",
+     "plays": 229,
+     "ms": 48623455
+    },
+    {
+     "name": "Built on Glass",
+     "artist": "Chet Faker",
+     "plays": 225,
+     "ms": 60047550
+    },
+    {
+     "name": "Settle (The Remixes)",
+     "artist": "Disclosure",
+     "plays": 223,
+     "ms": 54818599
+    },
+    {
+     "name": "Woman",
+     "artist": "Rhye",
+     "plays": 187,
+     "ms": 37914865
+    },
+    {
+     "name": "Lang Lang: The Chopin Album",
+     "artist": "Frédéric Chopin",
+     "plays": 176,
+     "ms": 38724894
+    }
+   ],
+   "top_locations": [
+    {
+     "city": "New York",
+     "country": "US",
+     "plays": 8074,
+     "hours": 519.5
+    },
+    {
+     "city": "Boston",
+     "country": "US",
+     "plays": 4892,
+     "hours": 290.0
+    },
+    {
+     "city": "Shanghai",
+     "country": "CN",
+     "plays": 4750,
+     "hours": 338.7
+    },
+    {
+     "city": "Providence",
+     "country": "US",
+     "plays": 51,
+     "hours": 3.8
+    },
+    {
+     "city": "Nashua",
+     "country": "US",
+     "plays": 41,
+     "hours": 2.4
+    },
+    {
+     "city": "Macau",
+     "country": "MO",
+     "plays": 37,
+     "hours": 2.0
+    }
+   ],
+   "countries": [
+    {
+     "code": "US",
+     "plays": 13506,
+     "hours": 844.7,
+     "share": 71.7
+    },
+    {
+     "code": "CN",
+     "plays": 5244,
+     "hours": 372.4,
+     "share": 27.8
+    },
+    {
+     "code": "GB",
+     "plays": 37,
+     "hours": 2.4,
+     "share": 0.2
+    },
+    {
+     "code": "MO",
+     "plays": 37,
+     "hours": 2.0,
+     "share": 0.2
+    },
+    {
+     "code": "DO",
+     "plays": 17,
+     "hours": 1.2,
+     "share": 0.1
+    }
+   ]
+  },
+  {
+   "year": 2015,
+   "plays": 8436,
+   "hours": 659.0,
+   "active_days": 248,
+   "distinct_artists": 582,
+   "distinct_tracks": 1551,
+   "headline": "2015 is structured around two Asia trips: a winter break in Shanghai and Hong Kong, and a summer run through Toronto, Taipei, Shanghai and Hong Kong. Between them, New York was the steady base (84% of plays).",
+   "top_tracks": [
+    {
+     "name": "Violin Partita No. 2 in D Minor, BWV 1004: V. Ciaccona",
+     "artist": "Johann Sebastian Bach",
+     "plays": 34,
+     "ms": 33353841
+    },
+    {
+     "name": "With Me",
+     "artist": "Cashmere Cat",
+     "plays": 31,
+     "ms": 6299673
+    },
+    {
+     "name": "Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",
+     "artist": "Johann Sebastian Bach",
+     "plays": 30,
+     "ms": 6373296
+    },
+    {
+     "name": "All I Want Is You (feat. J. Cole)",
+     "artist": "Miguel",
+     "plays": 29,
+     "ms": 8313718
+    },
+    {
+     "name": "Dance Shoes - Ballet New Age Piano Music 4/4",
+     "artist": "Ballet Music",
+     "plays": 29,
+     "ms": 3889422
+    },
+    {
+     "name": "Lovin U",
+     "artist": "Stwo",
+     "plays": 29,
+     "ms": 7234304
+    },
+    {
+     "name": "The Worst",
+     "artist": "Jhené Aiko",
+     "plays": 29,
+     "ms": 7288432
+    },
+    {
+     "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
+     "artist": "Johann Sebastian Bach",
+     "plays": 28,
+     "ms": 4144150
+    }
+   ],
+   "top_artists": [
+    {
+     "name": "Johann Sebastian Bach",
+     "plays": 753,
+     "ms": 209632137
+    },
+    {
+     "name": "Sergei Rachmaninoff",
+     "plays": 540,
+     "ms": 206264692
+    },
+    {
+     "name": "SBTRKT",
+     "plays": 295,
+     "ms": 49432883
+    },
+    {
+     "name": "Edward Elgar",
+     "plays": 249,
+     "ms": 95507884
+    },
+    {
+     "name": "Frédéric Chopin",
+     "plays": 247,
+     "ms": 72978239
+    },
+    {
+     "name": "Ludwig van Beethoven",
+     "plays": 236,
+     "ms": 147742369
+    },
+    {
+     "name": "Wolfgang Amadeus Mozart",
+     "plays": 161,
+     "ms": 57871528
+    },
+    {
+     "name": "Sax G",
+     "plays": 153,
+     "ms": 21540964
+    }
+   ],
+   "top_albums": [
+    {
+     "name": "Hilary Hahn Plays Bach",
+     "artist": "Johann Sebastian Bach",
+     "plays": 303,
+     "ms": 97581899
+    },
+    {
+     "name": "Rachmaninoff - Piano Pieces",
+     "artist": "Sergei Rachmaninoff",
+     "plays": 295,
+     "ms": 85714934
+    },
+    {
+     "name": "Wonder Where We Land",
+     "artist": "SBTRKT",
+     "plays": 287,
+     "ms": 47962458
+    },
+    {
+     "name": "Bach: Cello Suites Nos. 1, 5 & 6",
+     "artist": "Johann Sebastian Bach",
+     "plays": 239,
+     "ms": 48748950
+    },
+    {
+     "name": "Tu Me Manques",
+     "artist": "Sax G",
+     "plays": 153,
+     "ms": 21540964
+    },
+    {
+     "name": "In Search Of",
+     "artist": "Anthony Valadez",
+     "plays": 150,
+     "ms": 27731982
+    },
+    {
+     "name": "Hanging Gardens",
+     "artist": "Classixx",
+     "plays": 126,
+     "ms": 33521458
+    },
+    {
+     "name": "Essential Playlist - Elgar",
+     "artist": "Edward Elgar",
+     "plays": 120,
+     "ms": 50137501
+    }
+   ],
+   "top_locations": [
+    {
+     "city": "New York",
+     "country": "US",
+     "plays": 6853,
+     "hours": 555.4
+    },
+    {
+     "city": "Shanghai",
+     "country": "CN",
+     "plays": 519,
+     "hours": 39.8
+    },
+    {
+     "city": "Hong Kong",
+     "country": "HK",
+     "plays": 206,
+     "hours": 12.7
+    },
+    {
+     "city": "Taipei",
+     "country": "TW",
+     "plays": 168,
+     "hours": 9.4
+    },
+    {
+     "city": "London",
+     "country": "GB",
+     "plays": 162,
+     "hours": 8.5
+    }
+   ],
+   "countries": [
+    {
+     "code": "US",
+     "plays": 6912,
+     "hours": 559.3,
+     "share": 81.9
+    },
+    {
+     "code": "CN",
+     "plays": 977,
+     "hours": 68.6,
+     "share": 11.6
+    },
+    {
+     "code": "HK",
+     "plays": 206,
+     "hours": 12.7,
+     "share": 2.4
+    },
+    {
+     "code": "TW",
+     "plays": 168,
+     "hours": 9.4,
+     "share": 2.0
+    },
+    {
+     "code": "GB",
+     "plays": 162,
+     "hours": 8.5,
+     "share": 1.9
+    }
+   ]
+  },
+  {
+   "year": 2016,
+   "plays": 5913,
+   "hours": 421.3,
+   "active_days": 207,
+   "distinct_artists": 848,
+   "distinct_tracks": 2124,
+   "headline": "2016 splits cleanly into two halves: a spring semester at NYU Florence, with March as the European-travel month (Iceland, Lisbon, Paris, Copenhagen; the Netherlands and Berlin in April), then New York from mid-May through year-end. Eight European countries in four months make it the most country-diverse year in the archive.",
+   "top_tracks": [
+    {
+     "name": "The Gummy Bear Song (Gummibär Song)",
+     "artist": "Gummibär",
+     "plays": 37,
+     "ms": 5274208
+    },
+    {
+     "name": "Broccoli",
+     "artist": "DRAM",
+     "plays": 30,
+     "ms": 6329335
+    },
+    {
+     "name": "Gold",
+     "artist": "Cabu",
+     "plays": 18,
+     "ms": 4253526
+    },
+    {
+     "name": "California Girls",
+     "artist": "NoMBe",
+     "plays": 17,
+     "ms": 3312957
+    },
+    {
+     "name": "Adagio for Strings, Op. 11",
+     "artist": "Samuel Barber",
+     "plays": 17,
+     "ms": 6893457
+    },
+    {
+     "name": "Sonata In G Minor - Allegro",
+     "artist": "Johann Sebastian Bach",
+     "plays": 16,
+     "ms": 3647225
+    },
+    {
+     "name": "The Worst",
+     "artist": "Jhené Aiko",
+     "plays": 16,
+     "ms": 3778576
+    },
+    {
+     "name": "I'm sorry (feat. shiloh)",
+     "artist": "Swell",
+     "plays": 15,
+     "ms": 2293339
+    }
+   ],
+   "top_artists": [
+    {
+     "name": "Sergei Rachmaninoff",
+     "plays": 439,
+     "ms": 162022714
+    },
+    {
+     "name": "Johann Sebastian Bach",
+     "plays": 315,
+     "ms": 82799381
+    },
+    {
+     "name": "Frédéric Chopin",
+     "plays": 165,
+     "ms": 47902565
+    },
+    {
+     "name": "Wolfgang Amadeus Mozart",
+     "plays": 101,
+     "ms": 40411590
+    },
+    {
+     "name": "Pyotr Ilyich Tchaikovsky",
+     "plays": 99,
+     "ms": 31201201
+    },
+    {
+     "name": "Ludwig van Beethoven",
+     "plays": 93,
+     "ms": 47748104
+    },
+    {
+     "name": "Astor Piazzolla",
+     "plays": 92,
+     "ms": 28295804
+    },
+    {
+     "name": "Johannes Brahms",
+     "plays": 91,
+     "ms": 42036002
+    }
+   ],
+   "top_albums": [
+    {
+     "name": "Rachmaninoff - Piano Pieces",
+     "artist": "Sergei Rachmaninoff",
+     "plays": 267,
+     "ms": 73424610
+    },
+    {
+     "name": "Bach: Cello Suites Nos. 1, 5 & 6",
+     "artist": "Johann Sebastian Bach",
+     "plays": 142,
+     "ms": 30684531
+    },
+    {
+     "name": "Classical Study Music",
+     "artist": "Frédéric Chopin",
+     "plays": 61,
+     "ms": 16969582
+    },
+    {
+     "name": "Rachmaninoff: Piano Concertos Nos. 2 & 4",
+     "artist": "Sergei Rachmaninoff",
+     "plays": 58,
+     "ms": 30989135
+    },
+    {
+     "name": "Yo-Yo Ma Plays Ennio Morricone",
+     "artist": "Ennio Morricone",
+     "plays": 56,
+     "ms": 9093547
+    },
+    {
+     "name": "Classical Study Music",
+     "artist": "Wolfgang Amadeus Mozart",
+     "plays": 54,
+     "ms": 23979432
+    },
+    {
+     "name": "Built on Glass",
+     "artist": "Chet Faker",
+     "plays": 51,
+     "ms": 12165037
+    },
+    {
+     "name": "Hilary Hahn Plays Bach",
+     "artist": "Johann Sebastian Bach",
+     "plays": 50,
+     "ms": 16373250
+    }
+   ],
+   "top_locations": [
+    {
+     "city": "New York",
+     "country": "US",
+     "plays": 4278,
+     "hours": 296.5
+    },
+    {
+     "city": "Florence",
+     "country": "IT",
+     "plays": 1173,
+     "hours": 93.0
+    },
+    {
+     "city": "Reykjavik",
+     "country": "IS",
+     "plays": 87,
+     "hours": 5.9
+    },
+    {
+     "city": "Lisbon",
+     "country": "PT",
+     "plays": 73,
+     "hours": 6.2
+    },
+    {
+     "city": "Hazerswoude-Dorp",
+     "country": "NL",
+     "plays": 34,
+     "hours": 2.2
+    },
+    {
+     "city": "Paris",
+     "country": "FR",
+     "plays": 31,
+     "hours": 2.6
+    }
+   ],
+   "countries": [
+    {
+     "code": "US",
+     "plays": 4443,
+     "hours": 306.2,
+     "share": 75.1
+    },
+    {
+     "code": "IT",
+     "plays": 1183,
+     "hours": 93.7,
+     "share": 20.0
+    },
+    {
+     "code": "IS",
+     "plays": 87,
+     "hours": 5.9,
+     "share": 1.5
+    },
+    {
+     "code": "PT",
+     "plays": 73,
+     "hours": 6.2,
+     "share": 1.2
+    },
+    {
+     "code": "NL",
+     "plays": 63,
+     "hours": 3.6,
+     "share": 1.1
+    }
+   ]
+  },
+  {
+   "year": 2017,
+   "plays": 8434,
+   "hours": 512.0,
+   "active_days": 223,
+   "distinct_artists": 1496,
+   "distinct_tracks": 3532,
+   "headline": "2017 is a heavily New York year (95% of plays), bookended by two Shanghai trips (January and December) and punctuated by a Morocco itinerary in March and a Coachella weekend in April.",
+   "top_tracks": [
+    {
+     "name": "Redbone",
+     "artist": "Childish Gambino",
+     "plays": 54,
+     "ms": 17041995
+    },
+    {
+     "name": "Broccoli",
+     "artist": "DRAM",
+     "plays": 48,
+     "ms": 10076297
+    },
+    {
+     "name": "Caroline",
+     "artist": "Aminé",
+     "plays": 46,
+     "ms": 9180049
+    },
+    {
+     "name": "Better Give U Up",
+     "artist": "FKJ",
+     "plays": 45,
+     "ms": 10854435
+    },
+    {
+     "name": "Fake Love",
+     "artist": "Drake",
+     "plays": 37,
+     "ms": 7376497
+    },
+    {
+     "name": "Too Deep",
+     "artist": "dvsn",
+     "plays": 36,
+     "ms": 7172167
+    },
+    {
+     "name": "No Problem (feat. Lil Wayne & 2 Chainz)",
+     "artist": "Chance the Rapper",
+     "plays": 35,
+     "ms": 10058781
+    },
+    {
+     "name": "She's Mine Pt. 1",
+     "artist": "J. Cole",
+     "plays": 35,
+     "ms": 6751847
+    }
+   ],
+   "top_artists": [
+    {
+     "name": "RL Grime",
+     "plays": 216,
+     "ms": 50639425
+    },
+    {
+     "name": "Khalid",
+     "plays": 151,
+     "ms": 31203813
+    },
+    {
+     "name": "FKJ",
+     "plays": 130,
+     "ms": 31810976
+    },
+    {
+     "name": "Future",
+     "plays": 126,
+     "ms": 26882152
+    },
+    {
+     "name": "Daniel Caesar",
+     "plays": 123,
+     "ms": 28089279
+    },
+    {
+     "name": "H.E.R.",
+     "plays": 112,
+     "ms": 23132627
+    },
+    {
+     "name": "dvsn",
+     "plays": 99,
+     "ms": 26578244
+    },
+    {
+     "name": "Childish Gambino",
+     "plays": 87,
+     "ms": 24679078
+    }
+   ],
+   "top_albums": [
+    {
+     "name": "American Teen",
+     "artist": "Khalid",
+     "plays": 120,
+     "ms": 24408859
+    },
+    {
+     "name": "SEPT 5TH",
+     "artist": "dvsn",
+     "plays": 96,
+     "ms": 25837993
+    },
+    {
+     "name": "VOID",
+     "artist": "RL Grime",
+     "plays": 78,
+     "ms": 19378245
+    },
+    {
+     "name": "\"Awaken, My Love!\"",
+     "artist": "Childish Gambino",
+     "plays": 76,
+     "ms": 21904504
+    },
+    {
+     "name": "Coloring Book",
+     "artist": "Chance the Rapper",
+     "plays": 76,
+     "ms": 17548617
+    },
+    {
+     "name": "H.E.R. Volume 1",
+     "artist": "H.E.R.",
+     "plays": 69,
+     "ms": 14564725
+    },
+    {
+     "name": "Freudian",
+     "artist": "Daniel Caesar",
+     "plays": 58,
+     "ms": 13238379
+    },
+    {
+     "name": "French Kiwi Juice",
+     "artist": "FKJ",
+     "plays": 56,
+     "ms": 14020191
+    }
+   ],
+   "top_locations": [
+    {
+     "city": "New York",
+     "country": "US",
+     "plays": 7812,
+     "hours": 474.3
+    },
+    {
+     "city": "Shanghai",
+     "country": "CN",
+     "plays": 148,
+     "hours": 9.0
+    },
+    {
+     "city": "Palm Desert",
+     "country": "US",
+     "plays": 56,
+     "hours": 3.2
+    },
+    {
+     "city": "Marrakesh",
+     "country": "MA",
+     "plays": 55,
+     "hours": 3.1
+    },
+    {
+     "city": "Los Angeles",
+     "country": "US",
+     "plays": 6,
+     "hours": 0.3
+    },
+    {
+     "city": "Tokyo",
+     "country": "JP",
+     "plays": 2,
+     "hours": 0.1
+    }
+   ],
+   "countries": [
+    {
+     "code": "US",
+     "plays": 7993,
+     "hours": 484.6,
+     "share": 94.8
+    },
+    {
+     "code": "MA",
+     "plays": 180,
+     "hours": 11.2,
+     "share": 2.1
+    },
+    {
+     "code": "CN",
+     "plays": 148,
+     "hours": 9.0,
+     "share": 1.8
+    },
+    {
+     "code": "CA",
+     "plays": 111,
+     "hours": 7.2,
+     "share": 1.3
+    },
+    {
+     "code": "JP",
+     "plays": 2,
+     "hours": 0.1,
+     "share": 0.0
+    }
+   ]
+  },
+  {
+   "year": 2018,
+   "plays": 5144,
+   "hours": 300.3,
+   "active_days": 173,
+   "distinct_artists": 1287,
+   "distinct_tracks": 2684,
+   "headline": "2018 is the year of four real trips (Tulum, Paris, Mauritius and Madagascar, Barbados) around a steady New York base (88% of plays).",
+   "top_tracks": [
+    {
+     "name": "Night Drive",
+     "artist": "Ari Lennox",
+     "plays": 22,
+     "ms": 3302926
+    },
+    {
+     "name": "Cave Me In",
+     "artist": "Gallant",
+     "plays": 19,
+     "ms": 3954207
+    },
+    {
+     "name": "Don't Let Me Down (feat. Khalid)",
+     "artist": "Sabrina Claudio",
+     "plays": 17,
+     "ms": 3003696
+    },
+    {
+     "name": "No Other Way",
+     "artist": "Sinéad Harnett",
+     "plays": 17,
+     "ms": 3065925
+    },
+    {
+     "name": "Where Did I Go?",
+     "artist": "Jorja Smith",
+     "plays": 17,
+     "ms": 3218493
+    },
+    {
+     "name": "I've Always Been",
+     "artist": "Mac Ayres",
+     "plays": 16,
+     "ms": 1805818
+    },
+    {
+     "name": "Get Away",
+     "artist": "The Internet",
+     "plays": 15,
+     "ms": 2230590
+    },
+    {
+     "name": "Hello There",
+     "artist": "Dillon Francis",
+     "plays": 15,
+     "ms": 1341417
+    }
+   ],
+   "top_artists": [
+    {
+     "name": "Sabrina Claudio",
+     "plays": 170,
+     "ms": 34404711
+    },
+    {
+     "name": "Jay Chou",
+     "plays": 122,
+     "ms": 28509832
+    },
+    {
+     "name": "Johann Sebastian Bach",
+     "plays": 109,
+     "ms": 21650499
+    },
+    {
+     "name": "Daniel Caesar",
+     "plays": 64,
+     "ms": 14292909
+    },
+    {
+     "name": "Claude Debussy",
+     "plays": 56,
+     "ms": 13836096
+    },
+    {
+     "name": "DJ Snake",
+     "plays": 51,
+     "ms": 9539729
+    },
+    {
+     "name": "Yellow Claw",
+     "plays": 49,
+     "ms": 8766135
+    },
+    {
+     "name": "Knife Party",
+     "plays": 47,
+     "ms": 11990496
+    }
+   ],
+   "top_albums": [
+    {
+     "name": "No Rain, No Flowers",
+     "artist": "Sabrina Claudio",
+     "plays": 46,
+     "ms": 9459508
+    },
+    {
+     "name": "Confidently Lost",
+     "artist": "Sabrina Claudio",
+     "plays": 44,
+     "ms": 8431986
+    },
+    {
+     "name": "About Time",
+     "artist": "Sabrina Claudio",
+     "plays": 44,
+     "ms": 9718686
+    },
+    {
+     "name": "Ego Death",
+     "artist": "The Internet",
+     "plays": 39,
+     "ms": 10186187
+    },
+    {
+     "name": "Vivaldi's Cello",
+     "artist": "Antonio Vivaldi",
+     "plays": 39,
+     "ms": 8304419
+    },
+    {
+     "name": "Yo-Yo Ma Plays Bach",
+     "artist": "Johann Sebastian Bach",
+     "plays": 36,
+     "ms": 7979170
+    },
+    {
+     "name": "Debussy: Complete Piano Music",
+     "artist": "Claude Debussy",
+     "plays": 33,
+     "ms": 7929754
+    },
+    {
+     "name": "H.E.R.",
+     "artist": "H.E.R.",
+     "plays": 29,
+     "ms": 5362838
+    }
+   ],
+   "top_locations": [
+    {
+     "city": "New York",
+     "country": "US",
+     "plays": 4027,
+     "hours": 234.8
+    },
+    {
+     "city": "Tulum",
+     "country": "MX",
+     "plays": 201,
+     "hours": 12.7
+    },
+    {
+     "city": "Paris",
+     "country": "FR",
+     "plays": 166,
+     "hours": 9.5
+    },
+    {
+     "city": "Port Louis",
+     "country": "MU",
+     "plays": 87,
+     "hours": 5.0
+    },
+    {
+     "city": "Bridgetown",
+     "country": "BB",
+     "plays": 52,
+     "hours": 3.3
+    },
+    {
+     "city": "Los Angeles",
+     "country": "US",
+     "plays": 42,
+     "hours": 2.2
+    }
+   ],
+   "countries": [
+    {
+     "code": "US",
+     "plays": 4542,
+     "hours": 263.9,
+     "share": 88.3
+    },
+    {
+     "code": "MX",
+     "plays": 253,
+     "hours": 16.0,
+     "share": 4.9
+    },
+    {
+     "code": "FR",
+     "plays": 166,
+     "hours": 9.5,
+     "share": 3.2
+    },
+    {
+     "code": "MU",
+     "plays": 97,
+     "hours": 5.5,
+     "share": 1.9
+    },
+    {
+     "code": "BB",
+     "plays": 52,
+     "hours": 3.3,
+     "share": 1.0
+    }
+   ]
+  },
+  {
+   "year": 2019,
+   "plays": 9510,
+   "hours": 572.4,
+   "active_days": 246,
+   "distinct_artists": 1715,
+   "distinct_tracks": 4552,
+   "headline": "2019 is a New York year with a busy travel calendar: Coachella again, Italy, Marfa, Paris, and Seoul at Christmas.",
+   "top_tracks": [
+    {
+     "name": "Only in My Dreams",
+     "artist": "The Marías",
+     "plays": 31,
+     "ms": 4588831
+    },
+    {
+     "name": "Unravel Me",
+     "artist": "Sabrina Claudio",
+     "plays": 30,
+     "ms": 7203344
+    },
+    {
+     "name": "Confidently Lost",
+     "artist": "Sabrina Claudio",
+     "plays": 28,
+     "ms": 4872657
+    },
+    {
+     "name": "I Don't Know You",
+     "artist": "The Marías",
+     "plays": 28,
+     "ms": 5712651
+    },
+    {
+     "name": "Ruthless",
+     "artist": "The Marías",
+     "plays": 22,
+     "ms": 5047288
+    },
+    {
+     "name": "Belong to You (feat. 6LACK)",
+     "artist": "Sabrina Claudio",
+     "plays": 21,
+     "ms": 3373254
+    },
+    {
+     "name": "Clueless",
+     "artist": "The Marías",
+     "plays": 20,
+     "ms": 4091349
+    },
+    {
+     "name": "Over the Moon",
+     "artist": "The Marías",
+     "plays": 19,
+     "ms": 3019271
+    }
+   ],
+   "top_artists": [
+    {
+     "name": "Johann Sebastian Bach",
+     "plays": 766,
+     "ms": 162243413
+    },
+    {
+     "name": "James Blake",
+     "plays": 250,
+     "ms": 56980445
+    },
+    {
+     "name": "Sabrina Claudio",
+     "plays": 227,
+     "ms": 43877359
+    },
+    {
+     "name": "The Kills",
+     "plays": 146,
+     "ms": 30964001
+    },
+    {
+     "name": "The 1975",
+     "plays": 141,
+     "ms": 30361424
+    },
+    {
+     "name": "H.E.R.",
+     "plays": 134,
+     "ms": 24350364
+    },
+    {
+     "name": "The Marías",
+     "plays": 129,
+     "ms": 24224816
+    },
+    {
+     "name": "Tame Impala",
+     "plays": 120,
+     "ms": 23965007
+    }
+   ],
+   "top_albums": [
+    {
+     "name": "Bach: Cello Suites, BWV 1007 - 1012",
+     "artist": "Johann Sebastian Bach",
+     "plays": 121,
+     "ms": 23794181
+    },
+    {
+     "name": "Confidently Lost",
+     "artist": "Sabrina Claudio",
+     "plays": 113,
+     "ms": 21374657
+    },
+    {
+     "name": "Assume Form",
+     "artist": "James Blake",
+     "plays": 106,
+     "ms": 22660275
+    },
+    {
+     "name": "H.E.R.",
+     "artist": "H.E.R.",
+     "plays": 104,
+     "ms": 18531018
+    },
+    {
+     "name": "Bach: Cello Suites",
+     "artist": "Johann Sebastian Bach",
+     "plays": 99,
+     "ms": 21597295
+    },
+    {
+     "name": "COSMIC",
+     "artist": "Bazzi",
+     "plays": 88,
+     "ms": 12539937
+    },
+    {
+     "name": "Dirty Computer",
+     "artist": "Janelle Monáe",
+     "plays": 84,
+     "ms": 15744224
+    },
+    {
+     "name": "A Brief Inquiry Into Online Relationships",
+     "artist": "The 1975",
+     "plays": 78,
+     "ms": 16535258
+    }
+   ],
+   "top_locations": [
+    {
+     "city": "New York",
+     "country": "US",
+     "plays": 8205,
+     "hours": 496.5
+    },
+    {
+     "city": "Venice",
+     "country": "IT",
+     "plays": 277,
+     "hours": 16.3
+    },
+    {
+     "city": "Shanghai",
+     "country": "CN",
+     "plays": 174,
+     "hours": 12.1
+    },
+    {
+     "city": "Marfa",
+     "country": "US",
+     "plays": 164,
+     "hours": 9.7
+    },
+    {
+     "city": "Indio",
+     "country": "US",
+     "plays": 155,
+     "hours": 9.0
+    },
+    {
+     "city": "Paris",
+     "country": "FR",
+     "plays": 35,
+     "hours": 1.8
+    }
+   ],
+   "countries": [
+    {
+     "code": "US",
+     "plays": 8868,
+     "hours": 533.4,
+     "share": 93.2
+    },
+    {
+     "code": "CN",
+     "plays": 317,
+     "hours": 20.3,
+     "share": 3.3
+    },
+    {
+     "code": "IT",
+     "plays": 277,
+     "hours": 16.3,
+     "share": 2.9
+    },
+    {
+     "code": "FR",
+     "plays": 35,
+     "hours": 1.8,
+     "share": 0.4
+    },
+    {
+     "code": "KR",
+     "plays": 13,
+     "hours": 0.7,
+     "share": 0.1
+    }
+   ]
+  },
+  {
+   "year": 2020,
+   "plays": 13127,
+   "hours": 791.1,
+   "active_days": 297,
+   "distinct_artists": 2082,
+   "distinct_tracks": 5498,
+   "headline": "2020 was a two-continent year, split 75% China / 23% New York, structured as two long Shanghai stays bracketing two New York stays. The January itinerary alone touched six countries before COVID grounded everything.",
+   "top_tracks": [
+    {
+     "name": "R&B All Night",
+     "artist": "KnowKnow",
+     "plays": 117,
+     "ms": 30141089
+    },
+    {
+     "name": "如果你也聽說",
+     "artist": "A-Mei Chang",
+     "plays": 45,
+     "ms": 16951241
+    },
+    {
+     "name": "我不配",
+     "artist": "Jay Chou",
+     "plays": 44,
+     "ms": 12201878
+    },
+    {
+     "name": "演員",
+     "artist": "Joker Xue",
+     "plays": 34,
+     "ms": 8849402
+    },
+    {
+     "name": "You & Me - Flume Remix",
+     "artist": "Disclosure",
+     "plays": 27,
+     "ms": 7105680
+    },
+    {
+     "name": "算什麼男人",
+     "artist": "Jay Chou",
+     "plays": 27,
+     "ms": 6440669
+    },
+    {
+     "name": "連名帶姓",
+     "artist": "A-Mei Chang",
+     "plays": 27,
+     "ms": 8962614
+    },
+    {
+     "name": "陰天",
+     "artist": "Karen Mok",
+     "plays": 26,
+     "ms": 6484467
+    }
+   ],
+   "top_artists": [
+    {
+     "name": "Johann Sebastian Bach",
+     "plays": 767,
+     "ms": 167742645
+    },
+    {
+     "name": "Jay Chou",
+     "plays": 504,
+     "ms": 117981712
+    },
+    {
+     "name": "A-Mei Chang",
+     "plays": 422,
+     "ms": 112187415
+    },
+    {
+     "name": "Claude Debussy",
+     "plays": 326,
+     "ms": 74630463
+    },
+    {
+     "name": "JJ Lin",
+     "plays": 180,
+     "ms": 41773858
+    },
+    {
+     "name": "KnowKnow",
+     "plays": 171,
+     "ms": 38805596
+    },
+    {
+     "name": "Bruno Major",
+     "plays": 142,
+     "ms": 26223676
+    },
+    {
+     "name": "Erik Satie",
+     "plays": 142,
+     "ms": 21382170
+    }
+   ],
+   "top_albums": [
+    {
+     "name": "Mr. Enjoy Da Money",
+     "artist": "KnowKnow",
+     "plays": 171,
+     "ms": 38805596
+    },
+    {
+     "name": "Bach: Cello Suites, BWV 1007 - 1012",
+     "artist": "Johann Sebastian Bach",
+     "plays": 98,
+     "ms": 20889359
+    },
+    {
+     "name": "偷故事的人",
+     "artist": "A-Mei Chang",
+     "plays": 93,
+     "ms": 24724016
+    },
+    {
+     "name": "PSYLIFE.25",
+     "artist": "PSY.P",
+     "plays": 84,
+     "ms": 13367613
+    },
+    {
+     "name": "French Composers",
+     "artist": "Claude Debussy",
+     "plays": 78,
+     "ms": 16639082
+    },
+    {
+     "name": "Bach: Cello Suites",
+     "artist": "Johann Sebastian Bach",
+     "plays": 77,
+     "ms": 17749759
+    },
+    {
+     "name": "星",
+     "artist": "A-Mei Chang",
+     "plays": 74,
+     "ms": 25371515
+    },
+    {
+     "name": "我很忙",
+     "artist": "Jay Chou",
+     "plays": 74,
+     "ms": 18975005
+    }
+   ],
+   "top_locations": [
+    {
+     "city": "Shanghai",
+     "country": "CN",
+     "plays": 6950,
+     "hours": 423.2
+    },
+    {
+     "city": "New York",
+     "country": "US",
+     "plays": 2925,
+     "hours": 176.0
+    },
+    {
+     "city": "Sanya",
+     "country": "CN",
+     "plays": 161,
+     "hours": 9.5
+    },
+    {
+     "city": "Tokyo",
+     "country": "JP",
+     "plays": 76,
+     "hours": 4.5
+    },
+    {
+     "city": "Beijing",
+     "country": "CN",
+     "plays": 56,
+     "hours": 3.5
+    },
+    {
+     "city": "Hong Kong",
+     "country": "HK",
+     "plays": 49,
+     "hours": 2.5
+    }
+   ],
+   "countries": [
+    {
+     "code": "CN",
+     "plays": 9896,
+     "hours": 596.3,
+     "share": 75.4
+    },
+    {
+     "code": "US",
+     "plays": 3032,
+     "hours": 182.9,
+     "share": 23.1
+    },
+    {
+     "code": "JP",
+     "plays": 76,
+     "hours": 4.5,
+     "share": 0.6
+    },
+    {
+     "code": "TW",
+     "plays": 63,
+     "hours": 4.2,
+     "share": 0.5
+    },
+    {
+     "code": "HK",
+     "plays": 49,
+     "hours": 2.5,
+     "share": 0.4
+    }
+   ]
+  },
+  {
+   "year": 2021,
+   "plays": 14471,
+   "hours": 897.8,
+   "active_days": 314,
+   "distinct_artists": 2041,
+   "distinct_tracks": 5058,
+   "headline": "2021 is a two-act year split at June 16: five and a half months in Shanghai, then six and a half months back in New York. The second half stacks an unusually dense travel calendar: Joshua Tree and LA, upstate New York, London, Cologne, a Florida road trip, and Hong Kong en route to Shanghai for year-end.",
+   "top_tracks": [
+    {
+     "name": "Imagination",
+     "artist": "Foster The People",
+     "plays": 89,
+     "ms": 22505644
+    },
+    {
+     "name": "連名帶姓",
+     "artist": "A-Mei Chang",
+     "plays": 80,
+     "ms": 24944713
+    },
+    {
+     "name": "17",
+     "artist": "Pink Sweat$",
+     "plays": 74,
+     "ms": 12613427
+    },
+    {
+     "name": "想你的夜 (未眠版)",
+     "artist": "Grady Guan",
+     "plays": 70,
+     "ms": 19064120
+    },
+    {
+     "name": "記得",
+     "artist": "A-Mei Chang",
+     "plays": 68,
+     "ms": 18143746
+    },
+    {
+     "name": "你那麼愛她",
+     "artist": "林隆璇",
+     "plays": 64,
+     "ms": 15708596
+    },
+    {
+     "name": "身後",
+     "artist": "A-Mei Chang",
+     "plays": 64,
+     "ms": 15927583
+    },
+    {
+     "name": "人質",
+     "artist": "A-Mei Chang",
+     "plays": 61,
+     "ms": 13383671
+    }
+   ],
+   "top_artists": [
+    {
+     "name": "A-Mei Chang",
+     "plays": 686,
+     "ms": 174956392
+    },
+    {
+     "name": "Pink Sweat$",
+     "plays": 495,
+     "ms": 79745226
+    },
+    {
+     "name": "Johann Sebastian Bach",
+     "plays": 479,
+     "ms": 99422515
+    },
+    {
+     "name": "Jay Chou",
+     "plays": 258,
+     "ms": 62781463
+    },
+    {
+     "name": "Johannes Brahms",
+     "plays": 195,
+     "ms": 59643431
+    },
+    {
+     "name": "Franz Liszt",
+     "plays": 146,
+     "ms": 45160620
+    },
+    {
+     "name": "H.E.R.",
+     "plays": 116,
+     "ms": 22049548
+    },
+    {
+     "name": "Foster The People",
+     "plays": 109,
+     "ms": 28076515
+    }
+   ],
+   "top_albums": [
+    {
+     "name": "PINK PLANET",
+     "artist": "Pink Sweat$",
+     "plays": 455,
+     "ms": 73204067
+    },
+    {
+     "name": "偷故事的人",
+     "artist": "A-Mei Chang",
+     "plays": 191,
+     "ms": 51345661
+    },
+    {
+     "name": "Bach Solo",
+     "artist": "Johann Sebastian Bach",
+     "plays": 133,
+     "ms": 20098431
+    },
+    {
+     "name": "H.E.R.",
+     "artist": "H.E.R.",
+     "plays": 106,
+     "ms": 19921063
+    },
+    {
+     "name": "我要快樂",
+     "artist": "A-Mei Chang",
+     "plays": 91,
+     "ms": 20568762
+    },
+    {
+     "name": "Pick U Up",
+     "artist": "Foster The People",
+     "plays": 89,
+     "ms": 22505644
+    },
+    {
+     "name": "真實",
+     "artist": "A-Mei Chang",
+     "plays": 87,
+     "ms": 22507221
+    },
+    {
+     "name": "寂寞 (特別版)",
+     "artist": "Grady Guan",
+     "plays": 70,
+     "ms": 19064120
+    }
+   ],
+   "top_locations": [
+    {
+     "city": "Shanghai",
+     "country": "CN",
+     "plays": 6097,
+     "hours": 378.9
+    },
+    {
+     "city": "New York",
+     "country": "US",
+     "plays": 5358,
+     "hours": 332.4
+    },
+    {
+     "city": "Miami",
+     "country": "US",
+     "plays": 136,
+     "hours": 7.8
+    },
+    {
+     "city": "Fernandina Beach",
+     "country": "US",
+     "plays": 115,
+     "hours": 6.7
+    },
+    {
+     "city": "London",
+     "country": "GB",
+     "plays": 109,
+     "hours": 6.8
+    },
+    {
+     "city": "Hong Kong",
+     "country": "HK",
+     "plays": 95,
+     "hours": 7.1
+    }
+   ],
+   "countries": [
+    {
+     "code": "CN",
+     "plays": 8005,
+     "hours": 500.2,
+     "share": 55.3
+    },
+    {
+     "code": "US",
+     "plays": 6150,
+     "hours": 377.6,
+     "share": 42.5
+    },
+    {
+     "code": "GB",
+     "plays": 134,
+     "hours": 8.4,
+     "share": 0.9
+    },
+    {
+     "code": "HK",
+     "plays": 95,
+     "hours": 7.1,
+     "share": 0.7
+    },
+    {
+     "code": "DE",
+     "plays": 87,
+     "hours": 4.5,
+     "share": 0.6
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "plays": 8278,
+   "hours": 541.8,
+   "active_days": 253,
+   "distinct_artists": 990,
+   "distinct_tracks": 2521,
+   "headline": "2022 is a two-act year: a twelve-week winter stay in Shanghai (Jan 7 – Mar 27), then a return to New York, with autumn trips to Atlanta, Charlotte, Utah and Miami.",
+   "top_tracks": [
+    {
+     "name": "還在流浪",
+     "artist": "Jay Chou",
+     "plays": 69,
+     "ms": 18006361
+    },
+    {
+     "name": "我不配",
+     "artist": "Jay Chou",
+     "plays": 63,
+     "ms": 17551481
+    },
+    {
+     "name": "想你的夜 (未眠版)",
+     "artist": "Grady Guan",
+     "plays": 55,
+     "ms": 14642332
+    },
+    {
+     "name": "Imagination",
+     "artist": "Foster The People",
+     "plays": 51,
+     "ms": 14706343
+    },
+    {
+     "name": "OctaHate - Cashmere Cat Remix",
+     "artist": "Ryn Weaver",
+     "plays": 50,
+     "ms": 12867804
+    },
+    {
+     "name": "Do You Go Up",
+     "artist": "Khai",
+     "plays": 50,
+     "ms": 9200131
+    },
+    {
+     "name": "Retrograde",
+     "artist": "James Blake",
+     "plays": 48,
+     "ms": 10292407
+    },
+    {
+     "name": "Heaven",
+     "artist": "Pink Sweat$",
+     "plays": 45,
+     "ms": 7269548
+    }
+   ],
+   "top_artists": [
+    {
+     "name": "Jay Chou",
+     "plays": 640,
+     "ms": 156775473
+    },
+    {
+     "name": "Johann Sebastian Bach",
+     "plays": 188,
+     "ms": 41132993
+    },
+    {
+     "name": "Mariah Carey",
+     "plays": 159,
+     "ms": 35483845
+    },
+    {
+     "name": "A-Mei Chang",
+     "plays": 158,
+     "ms": 41926753
+    },
+    {
+     "name": "Eric Chou",
+     "plays": 140,
+     "ms": 32318585
+    },
+    {
+     "name": "JJ Lin",
+     "plays": 109,
+     "ms": 26842806
+    },
+    {
+     "name": "H.E.R.",
+     "plays": 92,
+     "ms": 17155817
+    },
+    {
+     "name": "Jakob",
+     "plays": 91,
+     "ms": 13467647
+    }
+   ],
+   "top_albums": [
+    {
+     "name": "周杰倫的床邊故事",
+     "artist": "Jay Chou",
+     "plays": 92,
+     "ms": 21366929
+    },
+    {
+     "name": "H.E.R.",
+     "artist": "H.E.R.",
+     "plays": 91,
+     "ms": 16900794
+    },
+    {
+     "name": "最偉大的作品",
+     "artist": "Jay Chou",
+     "plays": 90,
+     "ms": 22404330
+    },
+    {
+     "name": "PINK PLANET",
+     "artist": "Pink Sweat$",
+     "plays": 86,
+     "ms": 14295472
+    },
+    {
+     "name": "哎呦 不錯哦",
+     "artist": "Jay Chou",
+     "plays": 76,
+     "ms": 18852384
+    },
+    {
+     "name": "Haydn: Cello Concertos - Remastered",
+     "artist": "Joseph Haydn",
+     "plays": 63,
+     "ms": 29235215
+    },
+    {
+     "name": "我很忙",
+     "artist": "Jay Chou",
+     "plays": 62,
+     "ms": 17259401
+    },
+    {
+     "name": "寂寞 (特別版)",
+     "artist": "Grady Guan",
+     "plays": 55,
+     "ms": 14642332
+    }
+   ],
+   "top_locations": [
+    {
+     "city": "New York",
+     "country": "US",
+     "plays": 3717,
+     "hours": 241.0
+    },
+    {
+     "city": "Shanghai",
+     "country": "CN",
+     "plays": 2019,
+     "hours": 136.8
+    },
+    {
+     "city": "Miami",
+     "country": "US",
+     "plays": 316,
+     "hours": 20.8
+    },
+    {
+     "city": "Atlanta",
+     "country": "US",
+     "plays": 247,
+     "hours": 15.7
+    },
+    {
+     "city": "Snowbird",
+     "country": "US",
+     "plays": 228,
+     "hours": 13.3
+    },
+    {
+     "city": "San Francisco",
+     "country": "US",
+     "plays": 78,
+     "hours": 4.8
+    }
+   ],
+   "countries": [
+    {
+     "code": "US",
+     "plays": 5110,
+     "hours": 327.5,
+     "share": 61.7
+    },
+    {
+     "code": "CN",
+     "plays": 3067,
+     "hours": 207.8,
+     "share": 37.1
+    },
+    {
+     "code": "MO",
+     "plays": 101,
+     "hours": 6.5,
+     "share": 1.2
+    }
+   ]
+  }
+ ],
+ "longitudinal": {
+  "years": [
+   2014,
+   2015,
+   2016,
+   2017,
+   2018,
+   2019,
+   2020,
+   2021,
+   2022
+  ],
+  "artists": [
+   {
+    "name": "Johann Sebastian Bach",
+    "total_plays": 4196,
+    "per_year": [
+     780,
+     753,
+     315,
+     39,
+     109,
+     766,
+     767,
+     479,
+     188
+    ],
+    "peak_year": 2014,
+    "first_year": 2014
+   },
+   {
+    "name": "Jay Chou",
+    "total_plays": 1818,
+    "per_year": [
+     1,
+     116,
+     46,
+     57,
+     122,
+     74,
+     504,
+     258,
+     640
+    ],
+    "peak_year": 2022,
+    "first_year": 2014
+   },
+   {
+    "name": "A-Mei Chang",
+    "total_plays": 1285,
+    "per_year": [
+     0,
+     3,
+     2,
+     1,
+     4,
+     9,
+     422,
+     686,
+     158
+    ],
+    "peak_year": 2021,
+    "first_year": 2015
+   },
+   {
+    "name": "Frédéric Chopin",
+    "total_plays": 1260,
+    "per_year": [
+     523,
+     247,
+     165,
+     59,
+     12,
+     77,
+     57,
+     63,
+     57
+    ],
+    "peak_year": 2014,
+    "first_year": 2014
+   },
+   {
+    "name": "Sergei Rachmaninoff",
+    "total_plays": 1176,
+    "per_year": [
+     85,
+     540,
+     439,
+     13,
+     4,
+     22,
+     26,
+     28,
+     19
+    ],
+    "peak_year": 2015,
+    "first_year": 2014
+   },
+   {
+    "name": "Flume",
+    "total_plays": 868,
+    "per_year": [
+     433,
+     14,
+     57,
+     57,
+     1,
+     118,
+     112,
+     48,
+     28
+    ],
+    "peak_year": 2014,
+    "first_year": 2014
+   },
+   {
+    "name": "Claude Debussy",
+    "total_plays": 773,
+    "per_year": [
+     84,
+     84,
+     30,
+     26,
+     56,
+     40,
+     326,
+     53,
+     74
+    ],
+    "peak_year": 2020,
+    "first_year": 2014
+   },
+   {
+    "name": "Ludwig van Beethoven",
+    "total_plays": 680,
+    "per_year": [
+     121,
+     236,
+     93,
+     35,
+     17,
+     40,
+     28,
+     70,
+     40
+    ],
+    "peak_year": 2015,
+    "first_year": 2014
+   },
+   {
+    "name": "Chet Faker",
+    "total_plays": 649,
+    "per_year": [
+     409,
+     64,
+     84,
+     25,
+     0,
+     42,
+     8,
+     17,
+     0
+    ],
+    "peak_year": 2014,
+    "first_year": 2014
+   },
+   {
+    "name": "Disclosure",
+    "total_plays": 635,
+    "per_year": [
+     491,
+     16,
+     6,
+     1,
+     1,
+     16,
+     37,
+     50,
+     17
+    ],
+    "peak_year": 2014,
+    "first_year": 2014
+   },
+   {
+    "name": "Pink Sweat$",
+    "total_plays": 612,
+    "per_year": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     26,
+     495,
+     89
+    ],
+    "peak_year": 2021,
+    "first_year": 2019
+   },
+   {
+    "name": "Jhené Aiko",
+    "total_plays": 584,
+    "per_year": [
+     336,
+     59,
+     77,
+     19,
+     9,
+     2,
+     22,
+     34,
+     26
+    ],
+    "peak_year": 2014,
+    "first_year": 2014
+   }
+  ],
+  "tracks": [
+   {
+    "name": "You & Me - Flume Remix",
+    "artist": "Disclosure",
+    "total_plays": 202,
+    "per_year": [
+     132,
+     8,
+     0,
+     0,
+     0,
+     14,
+     27,
+     11,
+     10
+    ]
+   },
+   {
+    "name": "我不配",
+    "artist": "Jay Chou",
+    "total_plays": 184,
+    "per_year": [
+     0,
+     5,
+     6,
+     4,
+     9,
+     9,
+     44,
+     44,
+     63
+    ]
+   },
+   {
+    "name": "R&B All Night",
+    "artist": "KnowKnow",
+    "total_plays": 172,
+    "per_year": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     117,
+     46,
+     9
+    ]
+   },
+   {
+    "name": "Imagination",
+    "artist": "Foster The People",
+    "total_plays": 165,
+    "per_year": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     7,
+     18,
+     89,
+     51
+    ]
+   },
+   {
+    "name": "Lovin U",
+    "artist": "Stwo",
+    "total_plays": 145,
+    "per_year": [
+     94,
+     29,
+     12,
+     4,
+     2,
+     4,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "name": "想你的夜 (未眠版)",
+    "artist": "Grady Guan",
+    "total_plays": 143,
+    "per_year": [
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     17,
+     70,
+     55
+    ]
+   },
+   {
+    "name": "All I Want Is You (feat. J. Cole)",
+    "artist": "Miguel",
+    "total_plays": 127,
+    "per_year": [
+     35,
+     29,
+     8,
+     3,
+     0,
+     1,
+     0,
+     17,
+     34
+    ]
+   },
+   {
+    "name": "Retrograde",
+    "artist": "James Blake",
+    "total_plays": 127,
+    "per_year": [
+     35,
+     1,
+     2,
+     0,
+     0,
+     14,
+     2,
+     25,
+     48
+    ]
+   },
+   {
+    "name": "Confidently Lost",
+    "artist": "Sabrina Claudio",
+    "total_plays": 126,
+    "per_year": [
+     0,
+     0,
+     0,
+     9,
+     12,
+     28,
+     10,
+     43,
+     24
+    ]
+   },
+   {
+    "name": "Focus",
+    "artist": "H.E.R.",
+    "total_plays": 123,
+    "per_year": [
+     0,
+     0,
+     0,
+     21,
+     6,
+     15,
+     11,
+     38,
+     32
+    ]
+   }
+  ]
+ }
+}

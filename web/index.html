@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>where i was listening · 2014–2022</title>
+  <meta name="viewport" content="width=1200">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>where i was listening</h1>
+    <h2>nine years on a map · 2014 – 2022</h2>
+  </header>
+
+  <main>
+    <section id="map-pane">
+      <svg id="map"></svg>
+      <div id="annotation-card"></div>
+    </section>
+
+    <aside id="city-pane">
+      <h3>places, by hours so far</h3>
+      <ol id="city-list"></ol>
+      <p class="hint">circles ink in the longer i stayed.<br>scroll the timeline to step through any day.</p>
+    </aside>
+  </main>
+
+  <section id="timeline-pane">
+    <div id="controls">
+      <button id="play-btn" aria-label="play / pause">▶</button>
+      <button class="step-btn" id="step-back"  aria-label="day back">‹</button>
+      <button class="step-btn" id="step-fwd"   aria-label="day forward">›</button>
+      <span id="speed">
+        <span class="speed-label">speed</span>
+        <button class="speed-btn" data-speed="1">1×</button>
+        <button class="speed-btn active" data-speed="2">2×</button>
+        <button class="speed-btn" data-speed="4">4×</button>
+        <button class="speed-btn" data-speed="8">8×</button>
+      </span>
+      <span id="date-display">Jan 18, 2014</span>
+    </div>
+    <svg id="timeline"></svg>
+  </section>
+
+  <section id="annotation-feed-pane">
+    <h3>noted along the way</h3>
+    <ol id="annotation-feed"></ol>
+  </section>
+
+  <section id="year-pane">
+    <header id="year-pane-head">
+      <h3>year by year — what each year sounded like</h3>
+      <p class="hint">pick a year to see the top tracks, artists, places, and the country mix. the strip at the bottom shows how the favourite artists rose and fell across all nine years.</p>
+    </header>
+
+    <nav id="year-tabs" aria-label="select year"></nav>
+
+    <article id="year-card">
+      <header id="year-card-head">
+        <h4 id="year-card-title">2014</h4>
+        <ul id="year-card-stats"></ul>
+      </header>
+      <p id="year-card-headline"></p>
+
+      <div id="year-card-grid">
+        <section class="bucket" id="bucket-tracks">
+          <h5>top tracks</h5>
+          <ol class="bucket-list"></ol>
+        </section>
+        <section class="bucket" id="bucket-artists">
+          <h5>top artists</h5>
+          <ol class="bucket-list"></ol>
+        </section>
+        <section class="bucket" id="bucket-albums">
+          <h5>top albums</h5>
+          <ol class="bucket-list"></ol>
+        </section>
+        <section class="bucket" id="bucket-places">
+          <h5>top places</h5>
+          <ol class="bucket-list"></ol>
+        </section>
+        <section class="bucket bucket-wide" id="bucket-countries">
+          <h5>country mix</h5>
+          <ol class="bucket-list"></ol>
+        </section>
+      </div>
+    </article>
+
+    <section id="year-longitudinal">
+      <header>
+        <h4>artists across the years</h4>
+        <p class="hint">each row is a top-12 artist of the corpus. cells are play counts; darker = more plays that year. the • marks each artist's peak year.</p>
+      </header>
+      <table id="year-longitudinal-table"></table>
+    </section>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/roughjs@4.6.6/bundled/rough.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

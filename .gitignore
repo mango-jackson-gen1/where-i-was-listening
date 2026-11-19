@@ -1,0 +1,25 @@
+# Raw Spotify export lives outside the repo; these are a safety net in case
+# a raw file is ever copied in by accident — never commit
+private/
+location_rules.json
+Streaming_History_*.json
+**/Streaming_History_*.json
+
+# Large binary caches
+*.npy
+
+# Private working notes / backups
+notes/
+*.bak
+*.backup.json
+
+# OS / editor / tooling
+.DS_Store
+.claude/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
